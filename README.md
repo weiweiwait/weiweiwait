@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![fansg666](https://github-readme-stats.vercel.app/api?username=fansg666)](https://github.com/anuraghazra/github-readme-stats)
 ![fansg666](https://github-readme-stats.vercel.app/api/top-langs/?username=fansg666)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fansf666)

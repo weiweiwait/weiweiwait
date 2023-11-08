@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![xoliu's Github](https://github-readme-stats.vercel.app/api?username=fansg666&show_icons=true&theme=dark)
+![fansg666's Github](https://github-readme-stats.vercel.app/api?username=fansg666&show_icons=true&theme=dark)
 ![fansg666](https://github-readme-stats.vercel.app/api/top-langs/?username=fansg666)
 [![fansg666](https://github-profile-trophy.vercel.app/?username=fansg666)](https://github.com/ryo-ma/github-profile-troph)
 ![力扣数据](https://stats.justsong.cn/api/leetcode?username=condescending-7ichtermaniyz&cn=true)![CSDN 数据](https://stats.justsong.cn/api/csdn?id=m0_74120645)

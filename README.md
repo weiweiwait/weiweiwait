@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 ###                           👋  If there is flowery spring breeze, can I be young again 👋
 
-                               👋  个人博客：weiweiwait.top 👋
+                               👋      个人博客：weiweiwait.top 👋
 
 <!--
 **weiweiwait/weiweiwait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

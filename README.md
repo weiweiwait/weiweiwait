@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+-->
+               👋  If there is flowery spring breeze, can I be young again 👋
+![力扣数据](https://stats.justsong.cn/api/leetcode?username=condescending-7ichtermaniyz&cn=true)
+![CSDN 数据](https://stats.justsong.cn/api/csdn?id=m0_74120645)
+<!--[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 ###                           👋  If there is flowery spring breeze, can I be young again 👋
 
                                👋      个人博客：weiweiwait.top 👋
@@ -28,4 +32,3 @@ Here are some ideas to get you started:
     <a href="https://blog.csdn.net//m0_74120645"><img src="https://img.shields.io/badge/CSDN-博客-c32136" /></a>&emsp;
     <a href="https://leetcode.cn/u/condescending-7ichtermaniyz/"><img src="https://img.shields.io/badge/LeetCode-力扣-yellow" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-   
